@@ -1,3 +1,5 @@
+This is a fork of the official repo.
+
 # CasperJS
 
 >**Important note:** the `master` branch hosts the development version of CasperJS, which is now pretty stable and should be the right version to use if you ask me.
